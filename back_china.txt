@@ -1,7 +1,7 @@
 # NAME: Back to China
 
 payload:
-- DOMAIN-SUFFIX,cn
+  - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,f.cx
   - DOMAIN-SUFFIX,icbc
   - DOMAIN-SUFFIX,sohu
